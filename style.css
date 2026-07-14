@@ -20,7 +20,7 @@ header{
 }
 
 .div-links a:hover{
-    color: yellow;
+    color: rgb(232, 232, 19);
 }
 
 .logo{
@@ -71,7 +71,6 @@ h2{
     background-color: rgb(0, 105, 128);
 }
 
-/* Welcome section */
 .welcome{
     width: 80%;
     margin: 50px auto;
