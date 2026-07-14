@@ -22,8 +22,9 @@ header{
 .div-links a:hover{
     color: rgb(232, 232, 19);
 }
-
-.logo{
+.logo a {
+    display: block;
+    text-decoration: none;
     color: white;
     font-size: 28px;
     font-weight: bold;
